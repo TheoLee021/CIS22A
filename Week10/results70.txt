@@ -1,0 +1,3 @@
+Largest number and Smallest number of data70
+Largest number is 1104
+Smallest number is 2

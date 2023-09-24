@@ -1,0 +1,3 @@
+Sum and Average of data69
+sum = 4481.22
+avg = 280.076
